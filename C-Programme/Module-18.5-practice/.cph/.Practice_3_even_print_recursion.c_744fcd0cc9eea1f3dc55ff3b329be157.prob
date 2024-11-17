@@ -1,0 +1,1 @@
+{"name":"Local: Practice_3_even_print_recursion","url":"e:\\Phitron\\Module-18.5-practice\\Practice_3_even_print_recursion.c","tests":[{"id":1715057678033,"input":"4\n1 4 2 7","output":"2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-18.5-practice\\Practice_3_even_print_recursion.c","group":"local","local":true}

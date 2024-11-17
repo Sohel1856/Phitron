@@ -1,0 +1,1 @@
+{"name":"Local: EOF_file","url":"e:\\Phitron\\C++ For DSA\\EOF_file.cpp","tests":[{"id":1716141138249,"input":"12 57\n32 67\n43 78\n434 6989\n543 698","output":"12 57\n32 67\n43 78\n434 6989\n543 698"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\C++ For DSA\\EOF_file.cpp","group":"local","local":true}

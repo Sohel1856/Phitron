@@ -1,0 +1,1 @@
+{"name":"Local: String_input_with_space","url":"e:\\Phitron\\Module-10-String\\String_input_with_space.c","tests":[{"id":1713967953902,"input":"sohel ahamed \nbijoy","output":"sohel ahamed \nbijoy"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-10-String\\String_input_with_space.c","group":"local","local":true}

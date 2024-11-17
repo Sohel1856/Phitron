@@ -1,0 +1,1 @@
+{"name":"Local: even","url":"e:\\Phitron\\Eid practice\\even.c","tests":[{"id":1712597056985,"input":"130","output":"22 24 26 28 30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Eid practice\\even.c","group":"local","local":true}

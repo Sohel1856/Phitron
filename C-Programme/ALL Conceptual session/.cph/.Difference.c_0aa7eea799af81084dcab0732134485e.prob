@@ -1,0 +1,1 @@
+{"name":"Local: Difference","url":"e:\\Phitron\\C-Programme\\week-1-1-Conceptual session1\\Difference.c","tests":[{"id":1715781183998,"input":"1 2 3 4","output":"Difference = -10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\C-Programme\\week-1-1-Conceptual session1\\Difference.c","group":"local","local":true}

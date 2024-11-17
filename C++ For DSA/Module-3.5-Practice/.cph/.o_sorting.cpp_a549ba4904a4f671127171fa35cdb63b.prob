@@ -1,0 +1,1 @@
+{"name":"Local: o_sorting","url":"e:\\Phitron\\C++ For DSA\\Module-3.5-Practice\\o_sorting.cpp","tests":[{"id":1716997449836,"input":"4\ndeab","output":"abde"},{"id":1716997494522,"input":"5\negypt","output":"egpty"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\C++ For DSA\\Module-3.5-Practice\\o_sorting.cpp","group":"local","local":true}

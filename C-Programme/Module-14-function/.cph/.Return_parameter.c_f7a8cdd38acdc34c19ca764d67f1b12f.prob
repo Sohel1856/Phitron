@@ -1,0 +1,1 @@
+{"name":"Local: Return_parameter","url":"e:\\Phitron\\Module-14-function\\Return_parameter.c","tests":[{"id":1714726129207,"input":"20 45","output":"65"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-14-function\\Return_parameter.c","group":"local","local":true}

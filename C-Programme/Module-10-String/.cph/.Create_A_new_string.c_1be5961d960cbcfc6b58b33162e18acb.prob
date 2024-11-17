@@ -1,0 +1,1 @@
+{"name":"Local: Create_A_new_string","url":"e:\\Phitron\\Module-10-String\\Create_A_new_string.c","tests":[{"id":1714024714509,"input":"LEVEL\nONE","output":"5 3\nLEVEL ONE"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-10-String\\Create_A_new_string.c","group":"local","local":true}

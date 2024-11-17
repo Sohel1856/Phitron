@@ -1,0 +1,1 @@
+{"name":"Local: String","url":"e:\\Phitron\\C++ For DSA\\String.cpp","tests":[{"id":1716306179932,"input":"sohel\n29\nsohel ahamed","output":"sohel 5\n29\nsohel ahamed"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\C++ For DSA\\String.cpp","group":"local","local":true}

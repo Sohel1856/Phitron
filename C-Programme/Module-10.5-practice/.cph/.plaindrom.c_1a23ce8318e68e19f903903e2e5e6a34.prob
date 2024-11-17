@@ -1,0 +1,1 @@
+{"name":"Local: plaindrom","url":"e:\\Phitron\\Module-10.5-practice\\plaindrom.c","tests":[{"id":1714557940553,"input":"abba","output":"Palindrome"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-10.5-practice\\plaindrom.c","group":"local","local":true}

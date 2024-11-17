@@ -1,0 +1,1 @@
+{"name":"Local: COunt_q_1","url":"e:\\Phitron\\Midterm exam\\COunt_q_1.c","tests":[{"id":1714066157079,"input":"5\n1 4 2 5 3","output":"2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Midterm exam\\COunt_q_1.c","group":"local","local":true}

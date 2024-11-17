@@ -1,0 +1,1 @@
+{"name":"Local: copy_element","url":"e:\\Phitron\\Module-9-Arry operation\\copy_element.c","tests":[{"id":1713805354270,"input":"5\n10 20 30 40 50 \n3\n60 70 80","output":"10 20 30 40 50 60 70 80"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-9-Arry operation\\copy_element.c","group":"local","local":true}

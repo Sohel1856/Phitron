@@ -1,0 +1,1 @@
+{"name":"Local: N0_return_with_Parameter","url":"e:\\Phitron\\Module-14-function\\N0_return_with_Parameter.c","tests":[{"id":1714825136085,"input":"3 5","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-14-function\\N0_return_with_Parameter.c","group":"local","local":true}

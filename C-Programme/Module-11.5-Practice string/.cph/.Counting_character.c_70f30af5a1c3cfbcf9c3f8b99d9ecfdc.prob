@@ -1,0 +1,1 @@
+{"name":"Local: Counting_character","url":"e:\\Phitron\\Module-11.5-Practice string\\Counting_character.c","tests":[{"id":1714580109189,"input":"adusf","output":"a : 3\nb : 2\nc : 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-11.5-Practice string\\Counting_character.c","group":"local","local":true}

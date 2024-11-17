@@ -1,0 +1,1 @@
+{"name":"Local: string_lexicographical_comparison_shortcut","url":"e:\\Phitron\\Module-11 string\\string_lexicographical_comparison_shortcut.c","tests":[{"id":1714287774418,"input":"abc abc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-11 string\\string_lexicographical_comparison_shortcut.c","group":"local","local":true}

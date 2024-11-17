@@ -1,0 +1,1 @@
+{"name":"Local: check","url":"e:\\C Programming\\New folder\\module.c\\check.c","tests":[{"id":1712591586530,"input":"15","output":"5475"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C Programming\\New folder\\module.c\\check.c","group":"local","local":true}

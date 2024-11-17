@@ -1,0 +1,1 @@
+{"name":"Local: pattern_3_1","url":"e:\\Phitron\\Module-13-Nested loop\\pattern_3_1.c","tests":[{"id":1714540042497,"input":"4","output":"1 2 3 4\n1 2 3\n1 2 \n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-13-Nested loop\\pattern_3_1.c","group":"local","local":true}

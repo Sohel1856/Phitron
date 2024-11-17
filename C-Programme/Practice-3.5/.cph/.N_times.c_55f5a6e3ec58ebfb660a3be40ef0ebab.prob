@@ -1,0 +1,1 @@
+{"name":"Local: N_times","url":"e:\\Phitron\\Practice-3.5\\N_times.c","tests":[{"id":1712207800639,"input":"100\n1234567891234567\n23.5675\nA","output":"100\n1234567891234567\n23.5675\nA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Practice-3.5\\N_times.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Reverse_arry","url":"e:\\Phitron\\Module-9-Arry operation\\Reverse_arry.c","tests":[{"id":1713775249565,"input":"5\n10 20 30 40 50","output":"50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-9-Arry operation\\Reverse_arry.c","group":"local","local":true}

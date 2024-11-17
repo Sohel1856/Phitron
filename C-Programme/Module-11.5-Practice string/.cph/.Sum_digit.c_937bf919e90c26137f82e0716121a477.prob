@@ -1,0 +1,1 @@
+{"name":"Local: Sum_digit","url":"e:\\Phitron\\Module-11.5-Practice string\\Sum_digit.c","tests":[{"id":1714578528482,"input":"5\n13305","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-11.5-Practice string\\Sum_digit.c","group":"local","local":true}

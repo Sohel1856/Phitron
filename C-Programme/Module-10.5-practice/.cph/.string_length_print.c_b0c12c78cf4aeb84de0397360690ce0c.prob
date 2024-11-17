@@ -1,0 +1,1 @@
+{"name":"Local: string_length_print","url":"e:\\Phitron\\Module-10.5-practice\\string_length_print.c","tests":[{"id":1714559293797,"input":"abcd\nef","output":"4 2\nabcdef\nebcd af\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-10.5-practice\\string_length_print.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: eid_gift","url":"e:\\Phitron\\Eid practice\\eid_gift.c","tests":[{"id":1712935458657,"input":"20 5","output":"4 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Eid practice\\eid_gift.c","group":"local","local":true}

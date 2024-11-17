@@ -1,0 +1,1 @@
+{"name":"Local: Min_Max_Swap","url":"e:\\Phitron\\C++ For DSA\\Min_Max_Swap.cpp","tests":[{"id":1716303279329,"input":"15 3 34 50","output":"3 50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\C++ For DSA\\Min_Max_Swap.cpp","group":"local","local":true}

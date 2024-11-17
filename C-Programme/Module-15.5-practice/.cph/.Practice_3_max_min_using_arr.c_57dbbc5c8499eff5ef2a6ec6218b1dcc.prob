@@ -1,0 +1,1 @@
+{"name":"Local: Practice_3_max_min_using_arr","url":"e:\\Phitron\\Module-15.5-practice\\Practice_3_max_min_using_arr.c","tests":[{"id":1714972503661,"input":"5\n10 13 95 1 3","output":"1 95"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-15.5-practice\\Practice_3_max_min_using_arr.c","group":"local","local":true}

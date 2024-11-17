@@ -1,0 +1,1 @@
+{"name":"Local: Primary_diagonal","url":"e:\\Phitron\\C-Programme\\Module-18-2D Arry\\Primary_diagonal.c","tests":[{"id":1715321119649,"input":"3 3\n1 0 0\n0 2 0\n0 0 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\C-Programme\\Module-18-2D Arry\\Primary_diagonal.c","group":"local","local":true}

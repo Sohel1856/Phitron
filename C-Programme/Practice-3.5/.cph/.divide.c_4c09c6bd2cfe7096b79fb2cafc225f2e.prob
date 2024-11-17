@@ -1,0 +1,1 @@
+{"name":"Local: divide","url":"e:\\Phitron\\Practice-3.5\\divide.c","tests":[{"id":1712211530090,"input":"10","output":"1 No\n2 No\n3 No\n4 No\n5 Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Practice-3.5\\divide.c","group":"local","local":true}

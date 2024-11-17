@@ -1,0 +1,1 @@
+{"name":"Local: sum loop-4","url":"e:\\Phitron\\Module-3\\sum loop-4.c","tests":[{"id":1712120953030,"input":"200","output":"20100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-3\\sum loop-4.c","group":"local","local":true}

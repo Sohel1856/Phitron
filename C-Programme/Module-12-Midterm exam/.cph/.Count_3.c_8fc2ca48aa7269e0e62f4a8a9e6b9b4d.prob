@@ -1,0 +1,1 @@
+{"name":"Local: Count_3","url":"e:\\Phitron\\Midterm exam\\Count_3.c","tests":[{"id":1714069179820,"input":"2\ntheFox25IsBrave\nILoveYou100TimesAndSay2Also","output":"3 10 2\n7 16 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Midterm exam\\Count_3.c","group":"local","local":true}

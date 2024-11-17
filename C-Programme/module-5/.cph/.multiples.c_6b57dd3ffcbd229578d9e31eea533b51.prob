@@ -1,0 +1,1 @@
+{"name":"Local: multiples","url":"e:\\C Programming\\New folder\\module.c\\multiples.c","tests":[{"id":1712469953733,"input":"3 6","output":"Multiples"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C Programming\\New folder\\module.c\\multiples.c","group":"local","local":true}

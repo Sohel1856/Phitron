@@ -1,0 +1,1 @@
+{"name":"Local: do_it","url":"e:\\Phitron\\Midterm exam\\do_it.c","tests":[{"id":1714073115653,"input":"3 5","output":"1 2 3 4 5 \n1 2 3 4 5 \n1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Midterm exam\\do_it.c","group":"local","local":true}

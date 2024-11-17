@@ -1,0 +1,1 @@
+{"name":"Local: assignment_q_3","url":"e:\\Phitron\\Module-8-assignment-2\\assignment_q_3.c","tests":[{"id":1713537504229,"input":"5\n10 20 30 40 50","output":"40 20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-8-assignment-2\\assignment_q_3.c","group":"local","local":true}

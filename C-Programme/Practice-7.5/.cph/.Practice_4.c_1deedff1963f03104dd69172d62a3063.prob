@@ -1,0 +1,1 @@
+{"name":"Local: Practice_4","url":"e:\\Phitron\\Practice-7.5\\Practice_4.c","tests":[{"id":1713958890093,"input":"5\n1 2 100 0 30","output":"A[0] = 1\nA[1] = 2\nA[3] = 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Practice-7.5\\Practice_4.c","group":"local","local":true}

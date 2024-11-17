@@ -1,0 +1,1 @@
+{"name":"Local: Even_odd_positive_negative","url":"e:\\Phitron\\module-6\\Even_odd_positive_negative.c","tests":[{"id":1713123888710,"input":"5\n-5 0 -3 -4 12","output":"Even: 3\nOdd: 2\nPositive: 1\nNegative: 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\module-6\\Even_odd_positive_negative.c","group":"local","local":true}

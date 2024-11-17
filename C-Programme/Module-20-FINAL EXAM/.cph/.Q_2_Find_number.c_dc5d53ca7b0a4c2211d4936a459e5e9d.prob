@@ -1,0 +1,1 @@
+{"name":"Local: Q_2_Find_number","url":"e:\\Phitron\\C-Programme\\Module-20-FINAL EXAM\\Q_2_Find_number.c","tests":[{"id":1715351120833,"input":"4\n20 1 2 2\n10 2 2 1\n1 1 2 3\n0 3 10 15","output":"5\n-1\n-1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\C-Programme\\Module-20-FINAL EXAM\\Q_2_Find_number.c","group":"local","local":true}

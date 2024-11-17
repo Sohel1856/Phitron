@@ -1,0 +1,1 @@
+{"name":"Local: capital_or_small_digit","url":"e:\\Phitron\\module-5\\capital_or_small_digit.c","tests":[{"id":1713118926856,"input":"q","output":"IS DIGIT"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\module-5\\capital_or_small_digit.c","group":"local","local":true}

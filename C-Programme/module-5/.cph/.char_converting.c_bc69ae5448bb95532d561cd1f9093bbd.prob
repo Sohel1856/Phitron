@@ -1,0 +1,1 @@
+{"name":"Local: char_converting","url":"e:\\Phitron\\module-5\\char_converting.c","tests":[{"id":1713118048220,"input":"a","output":"A"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\module-5\\char_converting.c","group":"local","local":true}

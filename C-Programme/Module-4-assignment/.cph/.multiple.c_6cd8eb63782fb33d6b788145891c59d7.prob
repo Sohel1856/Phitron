@@ -1,0 +1,1 @@
+{"name":"Local: multiple","url":"e:\\Phitron\\Module-4-assignment\\multiple.c","tests":[{"id":1712290899392,"input":"10000000 10000000","output":"100000000000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-4-assignment\\multiple.c","group":"local","local":true}

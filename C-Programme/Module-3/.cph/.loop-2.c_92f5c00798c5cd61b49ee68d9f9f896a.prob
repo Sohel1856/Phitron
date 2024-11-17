@@ -1,0 +1,1 @@
+{"name":"Local: loop-2","url":"e:\\Phitron\\Module-3\\loop-2.c","tests":[{"id":1712119477440,"input":"","output":"1\n2\n3\n4\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-3\\loop-2.c","group":"local","local":true}

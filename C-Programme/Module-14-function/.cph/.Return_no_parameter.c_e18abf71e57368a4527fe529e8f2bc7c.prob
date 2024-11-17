@@ -1,0 +1,1 @@
+{"name":"Local: Return_no_parameter","url":"e:\\Phitron\\Module-14-function\\Return_no_parameter.c","tests":[{"id":1714824460688,"input":"45 60","output":"105"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-14-function\\Return_no_parameter.c","group":"local","local":true}

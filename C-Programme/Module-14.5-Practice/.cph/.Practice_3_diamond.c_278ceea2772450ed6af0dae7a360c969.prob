@@ -1,0 +1,1 @@
+{"name":"Local: Practice_3_diamond","url":"e:\\Phitron\\Module-14.5-Practice\\Practice_3_diamond.c","tests":[{"id":1714929338059,"input":"4","output":"*\n  ***\n *****\n*******\n*******\n *****\n  ***\n   *"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-14.5-Practice\\Practice_3_diamond.c","group":"local","local":true}

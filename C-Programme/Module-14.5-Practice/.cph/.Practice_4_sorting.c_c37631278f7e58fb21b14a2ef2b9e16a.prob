@@ -1,0 +1,1 @@
+{"name":"Local: Practice_4_sorting","url":"e:\\Phitron\\Module-14.5-Practice\\Practice_4_sorting.c","tests":[{"id":1714931224688,"input":"4\n5 2 7 3","output":"2 3 5 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-14.5-Practice\\Practice_4_sorting.c","group":"local","local":true}

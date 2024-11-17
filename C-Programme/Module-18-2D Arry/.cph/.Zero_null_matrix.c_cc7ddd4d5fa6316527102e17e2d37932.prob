@@ -1,0 +1,1 @@
+{"name":"Local: Zero_null_matrix","url":"e:\\Phitron\\C-Programme\\Module-18-2D Arry\\Zero_null_matrix.c","tests":[{"id":1715319274340,"input":"4 3\n0 0 0\n0 0 0\n0 4 0\n0 0 0","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\C-Programme\\Module-18-2D Arry\\Zero_null_matrix.c","group":"local","local":true}

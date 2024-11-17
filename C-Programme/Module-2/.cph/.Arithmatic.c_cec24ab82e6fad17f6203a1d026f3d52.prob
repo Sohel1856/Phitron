@@ -1,0 +1,1 @@
+{"name":"Local: Arithmatic","url":"e:\\Phitron\\Module-2\\Arithmatic.c","tests":[{"id":1711961535464,"input":"10 20","output":"30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-2\\Arithmatic.c","group":"local","local":true}

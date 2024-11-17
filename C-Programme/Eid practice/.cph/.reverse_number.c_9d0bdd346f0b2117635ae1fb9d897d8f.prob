@@ -1,0 +1,1 @@
+{"name":"Local: reverse_number","url":"e:\\Phitron\\Eid practice\\reverse_number.c","tests":[{"id":1712937686062,"input":"1234","output":"4321"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Eid practice\\reverse_number.c","group":"local","local":true}

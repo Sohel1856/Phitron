@@ -1,0 +1,1 @@
+{"name":"Local: Plainndrome_with_function","url":"e:\\Phitron\\Module-16-Assignment-3\\Plainndrome_with_function.c","tests":[{"id":1714737537695,"input":"abba","output":"Palindrome"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-16-Assignment-3\\Plainndrome_with_function.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: increment_decrement","url":"e:\\Phitron\\module-6\\increment_decrement.c","tests":[{"id":1713121261272,"input":"10","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\module-6\\increment_decrement.c","group":"local","local":true}

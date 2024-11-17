@@ -1,0 +1,1 @@
+{"name":"Local: maximum_minimum","url":"e:\\Phitron\\module-6\\maximum_minimum.c","tests":[{"id":1713156028360,"input":"5\n1 8 5 7 5","output":"8\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\module-6\\maximum_minimum.c","group":"local","local":true}

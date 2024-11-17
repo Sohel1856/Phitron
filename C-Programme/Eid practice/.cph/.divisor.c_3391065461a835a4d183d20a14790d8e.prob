@@ -1,0 +1,1 @@
+{"name":"Local: divisor","url":"e:\\Phitron\\Eid practice\\divisor.c","tests":[{"id":1712592509009,"input":"16 5 1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Eid practice\\divisor.c","group":"local","local":true}

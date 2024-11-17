@@ -1,0 +1,1 @@
+{"name":"Local: Practice_4_ascending","url":"e:\\Phitron\\Module-15.5-practice\\Practice_4_ascending.c","tests":[{"id":1714973320952,"input":"3 -2 1","output":"-2\n1\n3\n\n3\n-2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-15.5-practice\\Practice_4_ascending.c","group":"local","local":true}

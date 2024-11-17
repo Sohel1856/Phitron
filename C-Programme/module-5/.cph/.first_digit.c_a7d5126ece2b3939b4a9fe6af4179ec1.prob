@@ -1,0 +1,1 @@
+{"name":"Local: first_digit","url":"e:\\C Programming\\New folder\\module.c\\first_digit.c","tests":[{"id":1712470519988,"input":"3560","output":"ODD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C Programming\\New folder\\module.c\\first_digit.c","group":"local","local":true}

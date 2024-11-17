@@ -1,0 +1,1 @@
+{"name":"Local: function-arry","url":"e:\\Phitron\\Module-15-Pointer\\function-arry.c","tests":[{"id":1714965543106,"input":"5\n10 20 30 40 50","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module-15-Pointer\\function-arry.c","group":"local","local":true}
